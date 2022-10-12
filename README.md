@@ -4,3 +4,7 @@ heatmap function in R Language is used to plot a heatmap. Heatmap is defined as 
 <b> How to Use </b>
 
 Just Enter the data in script using R studio and Visulize your heatmap
+
+<b> prerequisite </b>
+just install the ggplot2 package
+# install.packages("ggplot2")
